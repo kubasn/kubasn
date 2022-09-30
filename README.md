@@ -27,16 +27,19 @@ I enjoy learning languages and frameworks like Typescript and React.
 | `Firebase` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="40" /> |
 | `Matlab` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" /> |
 | `Ubuntu` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
-                                                     
           
 - 🔭 I’m currently working on https://github.com/kubasn/browser-based-coding-environment 
 - 🌱 I’m currently learning Typescript and Redux
-- 📫 How to reach me: sosinkuba@gmail.com 
+- 📫 How to reach me: <a href = "mailto:sosinkuba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jakub-sosin-6a3866242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kubasn&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubasn&show_icons=true&theme=tokyonight)
+<div align="center">
+  <a href="https://github.com/kubasn">
+  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api?username=kubasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasn&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kubasn&show_icons=true&theme=tokyonight)  
+[![Kuba's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kubasn&&theme=xcode)](https://github.com/kubasn)
+
 
