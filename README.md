@@ -41,8 +41,8 @@ I'm currently studying at AGH University of Science and Technology in Cracow. I 
 
 <div align="center">
   <a href="https://github.com/kubasn">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=kubasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasn&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=kubasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasn&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 [![Kuba's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kubasn&&theme=xcode)](https://github.com/kubasn)
