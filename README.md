@@ -5,8 +5,8 @@ I enjoy learning languages and frameworks like Typescript and React.
 
 ## Skills
 
-| Command | Description |
-| --- | --- |
+| Technology |  |
+| :---: | :---: |
 | `React` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40"/> |
 | `JavaScript` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" /> |
 | `HTML` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" /> |
@@ -17,7 +17,7 @@ I enjoy learning languages and frameworks like Typescript and React.
 
 ## I also worked with
 
-| Command | Description |
+| Technology |  |
 | :---: | :---: |
 | `Redux` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40" />     |
 | `C/C++` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" />    |
