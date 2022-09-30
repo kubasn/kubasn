@@ -1,7 +1,7 @@
 ### Hi there 👋, Kuba Sosin
 ![](https://github.com/kubasn/kubasn/blob/main/logo1.png)
 
-I enjoy learning languages and frameworks like Typescript and React.
+I'm currently studying at AGH University of Science and Technology in Cracow. I enjoy learning languages and frameworks like Typescript and React.
 
 ## Skills
 
@@ -27,6 +27,11 @@ I enjoy learning languages and frameworks like Typescript and React.
 | `Firebase` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="40" /> |
 | `Matlab` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" /> |
 | `Ubuntu` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
+
+| Diploma thesis |
+| :---: |
+|  <a href="https://github.com/kubasn/praca-inzynierska-engineer-thesis-"> Statistical analysis of real estate sales listings using web scraping techniques / Statystyczna analiza ofert sprzedaży nieruchomości z wykorzystaniem techniki web scraping </a>   |
+
           
 - 🔭 I’m currently working on https://github.com/kubasn/browser-based-coding-environment 
 - 🌱 I’m currently learning Typescript and Redux
@@ -36,8 +41,8 @@ I enjoy learning languages and frameworks like Typescript and React.
 
 <div align="center">
   <a href="https://github.com/kubasn">
-  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api?username=kubasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width:"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasn&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=kubasn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasn&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 [![Kuba's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kubasn&&theme=xcode)](https://github.com/kubasn)
