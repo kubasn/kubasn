@@ -1,5 +1,5 @@
 ### Hi there 👋, Kuba Sosin
-![](https://github.com/kubasn/kubasn/blob/main/logo1.png)
+![logo](https://user-images.githubusercontent.com/56204568/193336377-c7ddc85a-5398-411b-935c-9dba721a99cd.gif)
 
 I'm currently studying at AGH University of Science and Technology in Cracow. I enjoy learning languages and frameworks like Typescript and React.
 
