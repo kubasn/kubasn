@@ -27,6 +27,7 @@ I'm currently studying at AGH University of Science and Technology in Cracow. I 
 | `Firebase` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" width="40" /> |
 | `Matlab` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" /> |
 | `Ubuntu` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
+| `Styled components, Chart.js` | |
 
 | Diploma thesis |
 | :---: |
