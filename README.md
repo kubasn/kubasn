@@ -27,9 +27,7 @@ I'm currently studying at AGH University of Science and Technology in Cracow. I 
 | `Matlab` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" /> |
 | `Ubuntu` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="40" width="40" /> |
 | `SASS` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />|
-| `Lerna` | |
-| `Commander` | |
-| `Styled components, Chart.js, Playwright` | |
+| `Styled components, Chart.js, Playwright, WebAssembly, Commander, Lerna` | |
 
 | Diploma thesis |
 | :---: |
