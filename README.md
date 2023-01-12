@@ -35,7 +35,7 @@ I'm currently studying at AGH University of Science and Technology in Cracow. I 
 
           
 - 🔭 I’m currently working on https://github.com/kubasn/browser-based-coding-environment 
-- 🌱 I’m currently learning Typescript and Redux
+- 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: <a href = "mailto:sosinkuba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jakub-sosin-6a3866242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
